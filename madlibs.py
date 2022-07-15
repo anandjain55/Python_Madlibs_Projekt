@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 adj = input("Adjective: ")
 verb1 = input("Verb: ")
 verb2 = input("Verb: ")
